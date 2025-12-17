@@ -114,7 +114,7 @@ app/src/main/
 ## **Installation & Setup**
 
 1. **Clone the Repository:**  
-   git clone \[https://github.com/your-username/GreenMatters.git\](https://github.com/your-username/GreenMatters.git)
+   ` git clone https://github.com/codinsayan/SIH-Fish-Detection-and-Analysis.git `
 
 2. **Open in Android Studio:**  
    * Requires Android Studio Koala or newer.  
